@@ -1,4 +1,3 @@
-# Starter HTML
-This repository provides a blank index.html file. 
+# Ramya Samudrala
+Playing around with HTML and CSS for school.
 
-Before submitting, replace the text in this README file with your name and a brief description of your work (just a sentence or two will do).
